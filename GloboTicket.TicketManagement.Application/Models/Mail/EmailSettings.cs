@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace GloboTicket.TicketManagement.Application.Models.Mail
+﻿namespace GloboTicket.TicketManagement.Application.Models.Mail
 {
     public class EmailSettings
     {
